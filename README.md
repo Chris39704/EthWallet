@@ -1,5 +1,5 @@
 <p align="center">
-An Ethereum Wallet Electron Application.
+Velocity Ethereum Wallet.
 </p>
 
 <div align="center">
@@ -17,6 +17,15 @@ An Ethereum Wallet Electron Application.
 </div>
 <hr />
 <br />
+
+<div align="center">
+
+[![Build Status][travis-image]][travis-url]
+[![Version][github-version]][github-tag-url]
+[![Discord][discord-image]][discord-url]
+[![Follow][twitter-follow]]
+
+</div>
 
 ## Starting Development
 
@@ -45,3 +54,10 @@ $ yarn package
 ## License
 
 MIT © [EthWallet](https://github.com/DevHawk39704/EthWallet)
+
+[discord-image]: https://img.shields.io/discord/531700569409060866.svg
+[discord-url]: https://discord.gg/Y2sBmyS
+[github-version]: https://img.shields.io/badge/Version-0.1.0-lightgrey.svg
+[travis-image]: https://img.shields.io/travis/com/DevHawk39704/EthWallet/master.svg
+[travis-url]: https://travis-ci.com/DevHawk39704/EthWallet
+[twitter-follow]: https://img.shields.io/twitter/follow/Hawk39704.svg?label=DevHawk&style=social

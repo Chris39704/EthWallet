@@ -1,8 +1,8 @@
 {
-  "name": "EthWallet",
+  "name": "VelocityWallet",
   "productName": "EthWallet",
   "version": "0.1.0",
-  "description": "DevHawk's Ethereum Wallet Application",
+  "description": "Velocity Ethereum Wallet",
   "main": "./app/main.prod.js",
   "scripts": {
     "build": "concurrently \"yarn build-main\" \"yarn build-renderer\"",
@@ -57,8 +57,8 @@
     ]
   },
   "build": {
-    "productName": "EthWallet",
-    "appId": "org.emudev.ethwallet",
+    "productName": "VelocityWallet",
+    "appId": "",
     "files": [
       "app/dist/",
       "app/app.html",
@@ -230,7 +230,7 @@
     "rimraf": "^2.6.2",
     "sass-loader": "^7.1.0",
     "sinon": "^7.1.1",
-    "solc": "^0.5.2",
+    "solc": "^0.4.25",
     "spectron": "^5.0.0",
     "style-loader": "^0.23.1",
     "stylelint": "^9.9.0",
@@ -243,7 +243,7 @@
     "testcafe-react-selectors": "^3.0.2",
     "truffle-hdwallet-provider": "^1.0.2",
     "url-loader": "^1.1.2",
-    "web3": "0.20",
+    "web3": "^1.0.0-beta.37",
     "webpack": "^4.26.1",
     "webpack-bundle-analyzer": "^3.0.3",
     "webpack-cli": "^3.1.2",
@@ -255,11 +255,13 @@
     "@fortawesome/fontawesome-free": "^5.5.0",
     "connected-react-router": "^5.0.1",
     "devtron": "^1.4.0",
+    "dotenv": "^6.2.0",
     "electron-debug": "^2.0.0",
     "electron-log": "^2.2.17",
     "electron-updater": "^3.2.3",
     "history": "^4.7.2",
     "next": "^7.0.2",
+    "npmvet": "^0.1.5",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-hot-loader": "^4.3.12",

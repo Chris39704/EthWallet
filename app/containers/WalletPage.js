@@ -1,19 +1,19 @@
 import { bindActionCreators } from 'redux';
 import { connect } from 'react-redux';
-import Counter from '../components/Counter';
-import * as CounterActions from '../actions/counter';
+import Wallet from '../components/Wallet';
+import * as WalletActions from '../actions/wallet';
 
 function mapStateToProps(state) {
   return {
-    counter: state.counter
+    wallet: state.wallet
   };
 }
 
 function mapDispatchToProps(dispatch) {
-  return bindActionCreators(CounterActions, dispatch);
+  return bindActionCreators(WalletActions, dispatch);
 }
 
 export default connect(
   mapStateToProps,
   mapDispatchToProps
-)(Counter);
+)(Wallet);
