@@ -4,16 +4,16 @@ Velocity Ethereum Wallet.
 
 <div align="center">
 <br>
-<a href="https://www.ethereum.org/"><img src="./internals/img/eth.png" /></a>
+<a href="https://www.ethereum.org/" target="_blank"><img src="./internals/img/eth.png" /></a>
 </div>
 <br>
 <hr />
 <br />
 
 <div align="center">
-  <a href="https://facebook.github.io/react/"><img src="./internals/img/react-padded-90.png" /></a>
-  <a href="https://webpack.github.io/"><img src="./internals/img/webpack-padded-90.png" /></a>
-  <a href="http://redux.js.org/"><img src="./internals/img/redux-padded-90.png" /></a>
+  <a href="https://facebook.github.io/react/" target="_blank"><img src="./internals/img/react-padded-90.png" /></a>
+  <a href="https://webpack.github.io/" target="_blank"><img src="./internals/img/webpack-padded-90.png" /></a>
+  <a href="http://redux.js.org/" target="_blank"><img src="./internals/img/redux-padded-90.png" /></a>
 </div>
 <hr />
 <br />
