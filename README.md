@@ -4,7 +4,7 @@ Velocity Ethereum Wallet.
 
 <div align="center">
 <br>
-<img src="./internals/img/eth.png" />
+<a href="https://www.ethereum.org/"><img src="./internals/img/eth.png" /></a>
 </div>
 <br>
 <hr />
