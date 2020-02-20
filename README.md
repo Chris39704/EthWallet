@@ -49,17 +49,17 @@ $ yarn package
 
 ## Maintainers
 
-- [DevHawk](https://github.com/DevHawk39704)
+- [Chris39704](https://github.com/Chris39704)
 
 ## License
 
-MIT © [EthWallet](https://github.com/DevHawk39704/EthWallet)
+MIT © [EthWallet](https://github.com/Chris39704/EthWallet)
 
 [discord-image]: https://img.shields.io/discord/531700569409060866.svg
 [discord-url]: https://discord.gg/Y2sBmyS
-[github-tag-url]: https://github.com/DevHawk39704/EthWallet
+[github-tag-url]: https://github.com/Chris39704/EthWallet
 [twitter-url]: https://twitter.com/Hawk39704
 [github-version]: https://img.shields.io/badge/Version-0.1.0-lightgrey.svg
-[travis-image]: https://img.shields.io/travis/com/DevHawk39704/EthWallet/master.svg
+[travis-image]: https://img.shields.io/travis/com/Chris39704/EthWallet/master.svg
 [travis-url]: https://travis-ci.com/DevHawk39704/EthWallet
 [twitter-follow]: https://img.shields.io/twitter/follow/Hawk39704.svg?label=DevHawk&style=social
